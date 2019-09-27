@@ -6,7 +6,8 @@ namespace SyncFusionDemo
 {
     public static class Keys
     {
-        //your private key here!
+        //your private license key here!
+        //change "null" to your key to make the validation work.
         public const string SyncfusionKey = null;
     }
 }
